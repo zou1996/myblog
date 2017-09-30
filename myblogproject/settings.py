@@ -25,7 +25,7 @@ SECRET_KEY = 'e9irq#=6*z)6svjedundxzs+t3k!ka4(0(=s3yjazwp8(6$+)-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost iZuf64uomoa9zt00g1e9mpZ','.zstart.top']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','.zstart.top']
 
 
 # Application definition
